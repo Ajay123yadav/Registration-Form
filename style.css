@@ -1,0 +1,36 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 20px;
+}
+.container{
+    max-width: 400px;
+    margin: auto;
+}
+label{
+    display: block;
+    margin-bottom: 10px;
+}
+input{
+    width: 100%;
+    margin-bottom: 5px;
+    padding: 5px;
+}
+button{
+    background-color: rgb(28, 88, 193);
+    color: white;
+    padding: 10px;
+    border: none;
+
+}
+.output{
+    margin: 10px;
+    border: 1px solid #ddd;
+    background-color: #f1f1f1;
+    padding: 10px;
+
+}
